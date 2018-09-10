@@ -1,2 +1,1 @@
-# NY-ML-2018
-Materials for the Applied Machine Learning Workshop in New York
+Slides, code and data for "Applied Machine Learning" in Washington DC from August 23-24. 
